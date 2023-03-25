@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Devin
-- 👀 I’m interested in Software and Technology
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on everything :)
+
